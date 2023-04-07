@@ -1,0 +1,11 @@
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\bin\Debug\Lekman Pashto Keyboard.exe.config
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\bin\Debug\Lekman Pashto Keyboard.exe
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\bin\Debug\Lekman Pashto Keyboard.pdb
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman Pashto Keyboard.csprojAssemblyReference.cache
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman_Pashto_Keyboard.Form1.resources
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman_Pashto_Keyboard.Properties.Resources.resources
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman Pashto Keyboard.csproj.GenerateResource.cache
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman Pashto Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman Pashto Keyboard.exe
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman Pashto Keyboard.pdb
+C:\Users\Shah\source\repos\Lekman Pashto Keyboard\Lekman Pashto Keyboard\obj\Debug\Lekman Pashto Keyboard.csproj.CopyComplete
